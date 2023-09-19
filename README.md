@@ -1,4 +1,4 @@
-# Writing Good Documentation
+# Writing Good Documentation - WIP
 
 ## Step 1 - Using Codeblocks.
 
@@ -42,11 +42,6 @@ result = factorial(number)
 puts "The factorial of #{number} is #{result}"
 ```
 
-
-_DevOps Infinity Loop Image_:
-
-<img src="https://github.com/zawscloud/github-docs-example/assets/83472934/1f641097-64e6-410a-871b-5e3f3dd03a39" />
-
 Good Cloud Engineers us codeblocks for both code and Errors that appear in the console.
 
 ```bash
@@ -56,4 +51,34 @@ Traceback (most recent call last):
   File "<stdin>", line 2, in foo
 ZeroDivisionError: division by zero
 ```
-> Here is an example of using a codeblock for an error that appears in bash:
+> Here is an example of using a codeblock for an error that appears in bash.
+
+# Step 2 - Use an Image:
+
+_DevOps Infinity Loop Image_:
+
+<img src="https://github.com/zawscloud/github-docs-example/assets/83472934/1f641097-64e6-410a-871b-5e3f3dd03a39" />
+
+# Step 3 - Use GitHub Flavored Markdown List
+GitHub extends Markdown to have a list where you can check off items.
+- [x] Finish Step 1
+- [ ] Finish Step 2
+- [ ] Finish Step 3
+
+# Step 4 - Use Emoji in a Table (Optional)
+GitHub Flavored Markdown (GFM) supports emoji shortcodes.
+Here are some examples:
+| ico      | shortcode |
+| -------- | ------- |
+| :cloud:  | `:cloud:` |
+| :penguin: | `:penguin:`|
+| :moneybag:| `:moneybag:`|
+
+
+# Step 5 - 
+
+## References
+
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [GitHub emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
