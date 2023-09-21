@@ -55,6 +55,8 @@ ZeroDivisionError: division by zero
 
 # Step 2 - Use an Image:
 
+GitHub allows you to add images to your project. `<img src="PASTE_YOUR_IMAGE_PATH_OR_URL_HERE" />`
+
 _DevOps Infinity Loop Image_:
 
 <img src="https://github.com/zawscloud/github-docs-example/assets/83472934/1f641097-64e6-410a-871b-5e3f3dd03a39" />
